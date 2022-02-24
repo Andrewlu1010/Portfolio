@@ -4709,14 +4709,6 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-  /* Style the collapsible content. Note: hidden by default */
-  .content {
-	padding: 0 18px;
-	display: none;
-	overflow: hidden;
-	background-color: #f1f1f1;
-  }
-
   .circular_image {
 	width: 300px;
 	height: 300px;
